@@ -10,13 +10,13 @@ https://templatemo.com/tm-588-ebook-landing
   CUSTOM PROPERTIES ( VARIABLES )             
 -----------------------------------------*/
 :root {
-  --white-color:                  #ffffff;
-  --primary-color:                #E76F51;
-  --secondary-color:              #c48e07;
+  --white-color:                  #141414;
+  --primary-color:                #cc1641;
+  --secondary-color:              #cc1641;
   --section-bg-color:             #f0f8ff;
-  --custom-btn-bg-color:          #a8512e;
-  --custom-btn-bg-hover-color:    #E76F51;
-  --dark-color:                   #000000;
+  --custom-btn-bg-color:          #823e89;
+  --custom-btn-bg-hover-color:    #823e89;
+  --dark-color:                   #ffffff;
   --p-color:                      #717275;
   --link-hover-color:             #E76F51;
 
